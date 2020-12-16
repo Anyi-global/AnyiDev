@@ -1,2 +1,2 @@
-# AnyiDev
+# Anyi
 To hold my software
